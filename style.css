@@ -135,6 +135,17 @@ color:#FFFFFF;
 padding-bottom:20px;
 float:left;
 }
+#main .main_center
+{
+padding-left:10px;
+height:auto;
+width:950px;
+background-image:url(main_body.png);
+background-repeat:repeat-y;
+color:#FFFFFF;
+padding-bottom:20px;
+float:left;
+}
 
 #main .main_right h2
 {
